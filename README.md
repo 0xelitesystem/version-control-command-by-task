@@ -1,8 +1,8 @@
-# Git Command Builder
+# Version Control Command by Task
 
 From "I want to..." to the exact git command. A task-first git helper for people who know what they want but not the incantation. Search for the goal in plain words ("undo last commit", "delete branch", "force push"), pick the task, and get the command with every flag explained and a safety warning where it matters.
 
-**Live demo:** https://0xelitesystem.github.io/git-command-builder/
+**Live demo:** https://0xelitesystem.github.io/version-control-command-by-task/
 
 ## Use
 
@@ -42,8 +42,8 @@ All client-side. Nothing you type leaves the browser: no requests, no analytics,
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/git-command-builder
-cd git-command-builder
+git clone https://github.com/0xelitesystem/version-control-command-by-task
+cd version-control-command-by-task
 ```
 
 Then open `index.html` in any modern browser. Or serve the folder with `python -m http.server 8000` and visit http://localhost:8000.
